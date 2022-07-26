@@ -8,3 +8,5 @@ This dockerfile uses the Daniel Gibbs' [linuxgameservers scripts](https://github
 TODO:
 * Instructions
 * A mechanism to copy maps and deeper config files into the new instances. (probably through ADD commands)
+
+doctorer
